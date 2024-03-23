@@ -1,6 +1,21 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "Test Note",
+        "text": "Testing testing 123",
+        "id": "5e9937fa-747c-4ef4-a5ea-157fbf5e99bd"
+    },
+    {
+        "title": "Tribute",
+        "text": "This is not the greatest note in the world",
+        "id": "ca48f3e4-b22c-43eb-adc5-5fdb29917cbf"
+    },
+    {
+        "title": "TODO",
+        "text": "Add delete button functionality soon",
+        "id": "d6741082-6966-4a61-8198-baa44dd2d295"
     }
 ]
