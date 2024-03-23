@@ -1,7 +1,13 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Note Taking App",
+        "text": "We finished building the note taking app with its own unique ID",
+        "id": "63405559-c6c9-47c5-b497-e69ae6bdb72d"
+    },
+    {
+        "title": "New Note #2",
+        "text": "This time we will save the note by selecting \"save note\" at the top",
+        "id": "d77ea47c-0e72-411f-875c-258981955bba"
     },
     {
         "title": "Test Note",
