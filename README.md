@@ -21,6 +21,8 @@
 
   ## Usage
 
+  https://note-taker-b1wu.onrender.com
+
    Navigate to the website, enter a note title, the note you would like to save, then hit "save note."
 
    - [Walkthrough video of application in action](https://drive.google.com/file/d/1UDEe7Tvfdyu_A9x96ZiWgKXqPWJFlM9j/view?usp=sharing)
